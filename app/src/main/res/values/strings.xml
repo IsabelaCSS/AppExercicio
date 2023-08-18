@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">ExercicioFixacao</string> //nome do app
+
+    //Exercicio 1
+    <string name="txtcardapio">Insira a quantidade dos pedidos</string> //text view do titulo
+
+    //texts views do cardapio
+    <string name="txtCachorroQuente">Cachorro Quente: R$2,00</string>
+    <string name="txtRefrigerante">Refrigerante: R$2,50</string>
+    <string name="txtSobremesa">Sobremesa: R$1,50</string>
+
+    //Edit Text do cardapio
+    <string name="qtdCachorroQuente"/>
+    <string name="qtdRefrigerante"/>
+    <string name="qtdSobremesa"/>
+
+    //botão de calcular a quantidade de pedidos
+    <string name="btncalcular">Calcular</string>
+
+    //Text view do resultado do calculo
+    <string name="txtvalortotal">Total:</string>
+
+    //botão de ir para o proximo exercicio 2
+    <string name="btnproximo">Proximo Exercicio</string>
+
+
+
+    //Exercicio 2
+    <string name="txttitulo">Digite para verificar se é multiplo ou não</string> //text view do titulo
+
+    <string name="txtnum1">1º Número</string>  //text view informando o que inserir na EditTextNumber
+    <string name="txtvalor1"/> //EditTextNumber do 1º Valor
+
+    <string name="txtnum2">2º Número</string>   //text view informando o que inserir na EditTextNumber
+    <string name="txtvalor2"/> //EditTextNumber do 2º Valor
+
+    <string name="btnverificar">Calcular</string>  //botão de Verificar os valores se são multiplos ou não
+
+    <string name="txtverificacao"/>  //Text View com a resposta do calculo
+
+    <string name="btnvoltar">Exercicio anterior</string>   //botão de ir para o anterior exercicio 1
+
+    <string name="btnsair"/>  //botão de sair do app
+</resources>

@@ -47,6 +47,10 @@ Validar os elementos, com suas funções e métodos.
  ![image](https://github.com/IsabelaESC/AppExercicio/assets/128037931/30c7a92a-fb61-430e-9ac2-fe81de815d4d)
 <center> <h3> Finalizado o APP! </h3> </center>
 
+<center> Executando o App </center>
+ 
+https://github.com/IsabelaESC/AppExercicio/assets/128037931/c61a42b1-20e7-408e-8371-55da379f8ce6
+  
 ---
  
  <center> <h1> Git Hub  </h1></center>
